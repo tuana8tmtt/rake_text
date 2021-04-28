@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"tuana8tmt\\HelloWorld\\": "src/"}
+        "psr-4": {"tuana8tmt\\TextExtract\\": "src/"}
     },
     "require": {}
 }
