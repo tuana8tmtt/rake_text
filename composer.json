@@ -1,0 +1,17 @@
+{
+    "name": "tuana8tmt/rake_text",
+    "description": "A simple hello world composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tuan Tran",
+            "email": "tuana8tmt@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"tuana8tmt\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
