@@ -13,5 +13,7 @@
     "autoload": {
         "psr-4": {"tuana8tmt\\TextExtract\\": "src/"}
     },
-    "require": {}
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    }
 }
